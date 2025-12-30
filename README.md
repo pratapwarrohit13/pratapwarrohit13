@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @pratapwarrohit13
-- 👀 I’m interested in Machine Learning, Deep learning
-- 🌱 I’m currently learning Data Science
-- 📫 you can reach out to me at pratapwarrohit13@live.com
+# Rohit Pratapwar
 
-<!---
-pratapwarrohit13/pratapwarrohit13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Pune, Maharashtra, India  
+📧 pratapwarrohit13@icloud.com | 🔗 [LinkedIn](https://linkedin.com/in/rohitpranapwar)
+
+## 👨‍💼 Professional Summary
+
+Results-driven technology leader with over 12 years of hands-on experience in process mining, business automation, and digital transformation initiatives. As an expert in Celonis EMS, Python programming, Robotic Process Automation (RPA) using UiPath, and machine learning techniques, I have a proven track record of delivering substantial measurable ROI through strategic process optimization. My expertise includes leading cross-functional teams, managing large-scale implementations across Fortune 500 environments, and driving innovation to achieve operational excellence and cost efficiencies.
+
+## 🛠️ Core Competencies
+
+- **Process Mining**: Celonis EMS
+- **Programming & Analytics**: Python, Machine Learning & AI
+- **Automation**: RPA (UiPath), Alteryx
+- **Data & Analytics**: Data Analytics, Financial Analysis
+- **Leadership & Management**: Technical Leadership, Stakeholder Management, Project Management, Change Management
+- **Integrations**: SAP & Salesforce Integration, GenAI
+
+## 🎓 Education & Certifications
+
+- **INSAID** - Data Scientist, Artificial Intelligence | 2020-2021
+- **TripleTen** - Data Scientist, Artificial Intelligence
+- **Swami Ramanand Teerth Marathwada University** - Bachelor of Science, General Studies | 2007-2012
+- **Certification**: Masterclass Post-Sales
+
+---
+
+*This README is generated from my professional resume. For more details, feel free to connect on LinkedIn or reach out via email.*
